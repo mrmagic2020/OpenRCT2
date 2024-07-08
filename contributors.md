@@ -241,7 +241,6 @@ Appreciation for contributors who have provided substantial work, but are no lon
 * Karsten Van Fossan (karstenvanf)
 * Kaavya Ramachandhran (ayvaak)
 * Mike Harvey (harvito)
-* Robert Yan (lewyche)
 
 ## Toolchain
 * (Balletie) - macOS
